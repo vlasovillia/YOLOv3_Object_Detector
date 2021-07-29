@@ -69,7 +69,7 @@ I have decided to train weights using [yolov3-tiny](https://github.com/pjreddie/
 `python app.py --video=test/<video.mp4> --out=output/<result.mp4>`
 
 ## Results
-<img src="/test/test_image.jpg" width="400"/> <img src="/output/test_result.jpg" width="400"/> 
+<img src="/test/test_image.png" width="400"/> <img src="/output/test_result.png" width="400"/> 
 
 
 ## References
