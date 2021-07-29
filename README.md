@@ -1,5 +1,3 @@
-_Simple Custom Object Detection in Python using YOLOv3, that can recognize 3 classes of objects (tomato, banana, orange)
-created for **learning purpose**_ 
 
 ## Table of Contents
 - [Installation and Requirements](https://github.com/x-sl0w/Object_Detection_in_Python_using_YOLOv3#installation-and-requirements)
