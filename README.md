@@ -1,11 +1,11 @@
 
 ## Table of Contents
-- [Installation and Requirements](https://github.com/x-sl0w/Object_Detection_in_Python_using_YOLOv3#installation-and-requirements)
-- [Making Custom Dataset](https://github.com/x-sl0w/Object_Detection_in_Python_using_YOLOv3#making-custom-dataset)
-- [Training new weights for Oject Detection](https://github.com/x-sl0w/Object_Detection_in_Python_using_YOLOv3#training-new-weights-for-oject-detection)
-- [How to run this program](https://github.com/x-sl0w/Object_Detection_in_Python_using_YOLOv3#how-to-run-this-program)
-- [Results](https://github.com/x-sl0w/Object_Detection_in_Python_using_YOLOv3#results)
-- [References](https://github.com/x-sl0w/Custom-Object-Detection-in-python-using-YOLOv3#references)
+- [Installation and Requirements](https://github.com/x-sl0w/YOLOv3_Object_Detector#installation-and-requirements)
+- [Making Custom Dataset](https://github.com/x-sl0w/YOLOv3_Object_Detector#making-custom-dataset)
+- [Training new weights for Oject Detection](https://github.com/x-sl0w/YOLOv3_Object_Detector#training-new-weights-for-oject-detection)
+- [How to run this program](https://github.com/x-sl0w/YOLOv3_Object_Detector#how-to-run-this-program)
+- [Results](https://github.com/x-sl0w/YOLOv3_Object_Detector#results)
+- [References](https://github.com/x-sl0w/YOLOv3_Object_Detector#references)
 
 ## Installation and Requirements
 
